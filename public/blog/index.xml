@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Deep Learning</title>
+    <link>https://dl.githuka.com/blog/</link>
+    <description>Recent content in Blogs on Deep Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 May 2019 14:43:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://dl.githuka.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GPU Hardware Specs Manual</title>
+      <link>https://dl.githuka.com/blog/hardware_specs/</link>
+      <pubDate>Tue, 07 May 2019 14:43:07 +0000</pubDate>
+      
+      <guid>https://dl.githuka.com/blog/hardware_specs/</guid>
+      <description>NVIDIA GTX 1050 This GPU is built using NVIDIA&amp;rsquo;s Pascal architecture, a successor of Maxwell which was introduced in 2016.
+General Specs  GPU Architecture: Pascal CUDA Cores: 640 Standard Memory: 2GB GDDR5 Memory Speed: 7GB/s Memory Interface Width: 128 bit Memory Bandwidth (GB/s): 112 Base Clock: 1354 Mhz Boost Clock: 1455 Mhz  Supported Technologies  CUDA 3DVision Physix NVDIA G-Synch ShadoWorks OpenGL  Display &amp;amp; Resolution  Max Resolution 7680*4320@60Hz Ports: DP1.</description>
+    </item>
+    
+  </channel>
+</rss>
